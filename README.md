@@ -1,1 +1,3 @@
-# COMP3710
+# Pattern Recognization
+Understanding patterns in our environment and in data is an important cognitive ability. The development of recognition and automated algorithms that are able to process copious amounts data without (or with limited) human intervention is critical in human intervention is critical in replicating this ability in machines. 
+This course will cover the fundamentals of creating computational algorithms that are able to recognise and/or analyse patterns within data of various forms. Topics and algorithms will include fractal geometry, classification methods such as random forests, recognition problems using deep learning and models of the human vision system. Python and stat-of-the-art packages like Tensorflow will be used as a mechanism for students to study patterns in nature, noise and data from various real-worlds sources, such images, social media and biomedical signals.
